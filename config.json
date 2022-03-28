@@ -1,0 +1,9 @@
+{
+    "dump": "@temp_channel_tag",
+    "jkey": "jsonblob_key",
+    "client_id": "3c3e05c29bd04b149ba10ffd353c2c95",
+    "client_secret": "73d7be1a54dd4f35bd2993859da44942",
+    "redirect_uri": "http://localhost:8888/callback",
+    "bot_token": "5192907308:AAGuea03wK7BBelqP2duszIXoeGjBKdSdn4",
+    "sudo_list": [1169818046]
+}
